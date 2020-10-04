@@ -1,0 +1,83 @@
+html {
+  background-color: #FEF4E1;
+  font-family:"Rajdhani";
+}
+
+h1{
+  font-family: "Julius Sans One";
+  text-align: center;
+
+}
+.wv{
+  display: table;
+  margin: 0 auto;
+}
+table, th, td {
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img{
+  width: 100vw;
+}
+
+body{
+  padding: 0px;
+  margin: 0px;
+}
+
+div {
+  margin: 50px;
+}
+
+h2{
+  text-align: center;
+}
+
+.picture{
+  text-align: center;
+  margin-bottom: 2px;
+}
+#header{
+  text-align: center;font-family: "Julius Sans One";
+  font-size: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.infographic{
+  display: block;
+  margin-left: 50px;
+  margin-right: 30px;
+  width: 30vw;
+  padding: auto;
+  float: left;
+  clear: right;
+}
+p{
+  margin-right: auto;
+  margin-left: auto;
+
+}
+.other{
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+a:active {
+  color: purple;
+}
+
+a:visited{
+  color: grey;
+}
+a:hover{
+  color: lightblue;
+}
+.image{
+  height: auto;
+  width: 100%;
+  margin-left: auto;
+}
